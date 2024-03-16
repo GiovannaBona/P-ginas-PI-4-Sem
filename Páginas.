@@ -1,0 +1,20 @@
+==============================================================
+OBJETIVO
+==============================================================
+1) Login
+	a) Autenticação	
+2) Listagem de Produtos
+	a) Botão Comprar
+3) Tela do Produto
+	a) Informações do produto 
+	b) adicionar a quantidade desejada
+	c) Botão Adicionar ao Carrinho
+4) Carrinho de Compras 
+	a) Demonstrar os produtos adicionados
+	b) Demonstrar o valor total
+5) Tela de Pagamento 
+	a) Campos a preencher os dados do cartão de crédito
+6) Tela de finalização da compra com sucesso
+	a) Botão para voltar ao início
+
+==============================================================
